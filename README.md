@@ -1,0 +1,1 @@
+Allow to fetch offline_token from OIDC IdP
